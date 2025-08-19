@@ -11,10 +11,15 @@ Visual Studio 2022 Build Tools.
 Folder Structure for replication should be
 
 -> Folder working directory
+
   -> Pipeline
+  
     -> Code
+    
       -> **Scripts**
     ->Data
+    
       -> only required is 01_raw (with BBC.zip)
+
 
 
