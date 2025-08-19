@@ -8,6 +8,8 @@ and
 
 Visual Studio 2022 Build Tools.
 
+See Requirements.txt for libraries.
+
 Folder Structure for replication should be
 
 -> Folder working directory
@@ -21,6 +23,7 @@ Folder Structure for replication should be
     ->Data
     
       -> only required is 01_raw (with BBC.zip)
+
 
 
 
