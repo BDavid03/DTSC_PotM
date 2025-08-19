@@ -13,16 +13,12 @@ See Requirements.txt for libraries.
 Folder Structure for replication should be
 
 -> Folder working directory
-
   -> Pipeline
-  
     -> Code
-    
       -> **Scripts**
-      
-    ->Data
-    
+    -> Data
       -> only required is 01_raw (with BBC.zip)
+
 
 
 
