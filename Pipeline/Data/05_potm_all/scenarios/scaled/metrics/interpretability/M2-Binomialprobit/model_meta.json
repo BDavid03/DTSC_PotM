@@ -1,0 +1,7 @@
+{
+  "tag": "M2-Binomial(probit)",
+  "model_kind": "M2",
+  "n_features": 32,
+  "n_numeric_terms": 32,
+  "n_categorical_terms": 0
+}

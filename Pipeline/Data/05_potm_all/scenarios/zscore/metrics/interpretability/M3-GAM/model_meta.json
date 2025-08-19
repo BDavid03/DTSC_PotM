@@ -1,0 +1,7 @@
+{
+  "tag": "M3-GAM",
+  "model_kind": "M3",
+  "n_features": 32,
+  "n_numeric_terms": 32,
+  "n_categorical_terms": 0
+}

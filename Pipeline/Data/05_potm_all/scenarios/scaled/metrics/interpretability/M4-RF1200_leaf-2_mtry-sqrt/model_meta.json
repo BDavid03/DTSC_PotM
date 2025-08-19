@@ -1,0 +1,7 @@
+{
+  "tag": "M4-RF(1200|leaf=2|mtry=sqrt)",
+  "model_kind": "M4",
+  "n_features": 32,
+  "n_numeric_terms": 32,
+  "n_categorical_terms": 0
+}

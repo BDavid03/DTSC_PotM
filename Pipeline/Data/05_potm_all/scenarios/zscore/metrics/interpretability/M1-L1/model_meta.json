@@ -1,0 +1,7 @@
+{
+  "tag": "M1-L1",
+  "model_kind": "M1",
+  "n_features": 32,
+  "n_numeric_terms": 32,
+  "n_categorical_terms": 0
+}
