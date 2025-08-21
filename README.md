@@ -1,4 +1,4 @@
-*Important to read in editor layout*
+*Important to read in code layout*
 
 Hello , this is the pipeline for feature analysis and model evaluation, using Big Bash Leage (T-20 cricket data to predict Player of the Match (PotM). 
 Not sure if EDA is working at the moment as I was trying to fix an merge bug. 
@@ -20,6 +20,7 @@ Folder Structure for replication should be
       -> **Scripts**
     -> Data
       -> only required is 01_raw (with BBC.zip)
+
 
 
 
