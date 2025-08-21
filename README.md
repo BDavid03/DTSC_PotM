@@ -5,7 +5,7 @@ Not sure if EDA is working at the moment as I was trying to fix an merge bug.
 
 Running feature engineering -> model should work fine.
 
-I used python instead of R due to entrenched bias. And strong familiarity with sklearn, pytorch, cudf/polars/pandas/mysql.
+I used python instead of R due to entrenched bias. And strong familiarity with sklearn, pytorch, cudf/polars/pandas/sqlite3.
 
 Main Version:
 Python 3.11 and Visual Studio 2022 Build Tools.
@@ -20,6 +20,7 @@ Folder Structure for replication should be
       -> **Scripts**
     -> Data
       -> only required is 01_raw (with BBC.zip)
+
 
 
 
